@@ -131,7 +131,10 @@ p {
 dispaly: none;
 }
 
-
+#mc_embed_signup .button {
+    clear: both;
+    background-color: #FFC700;
+}
 
 #mc_embed_signup .indicates-required {
     text-align: right;
