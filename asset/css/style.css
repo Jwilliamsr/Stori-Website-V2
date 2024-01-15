@@ -118,6 +118,25 @@ p {
           font-weight: 600;
           font-size: 20px; }
 
+#mc_embed_signup {
+    /* background: #fff; */
+    false: ;
+    clear: left;
+    font: 14px Helvetica,Arial,sans-serif;
+    width: 600px;
+}
+#mc_embed_signup .indicates-required {
+    text-align: right;
+    font-size: 11px;
+    margin-right: 4%;
+    color: #fff;
+}
+#mc_embed_signup .mc-field-group label {
+    display: block;
+    margin-bottom: 3px;
+    color: #fff;
+}
+
 #service_area {
   padding-bottom: 100px;
   position: relative;
